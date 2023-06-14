@@ -8,6 +8,7 @@ function updateTime(){
 
 let h = new Date().getHours();
 let m = new Date().getMinutes();
+//hfhfhfhh
 let s = new Date().getSeconds();
 let apm = "AM";
  if(h>12){
